@@ -1,0 +1,8 @@
+body {
+    background-color: rgba(98, 233, 96, 0.444);
+    text-align: center;
+    font-family:comic sans ms;
+   }
+section {
+    margin-bottom: 75px; /* Zde můžete číslo měnit (např. 60px, 80px), dokud mezera nebude stačit */
+}
